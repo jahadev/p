@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jahadev Portfolio</title>
+    <link>/p/</link>
+    <description>Recent content on Jahadev Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Mar 2023 21:05:33 +0530</lastBuildDate><atom:link href="/p/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Newsletter Signup Page</title>
+      <link>/p/portfolio/work2/</link>
+      <pubDate>Sat, 28 May 2022 19:41:01 +0530</pubDate>
+      
+      <guid>/p/portfolio/work2/</guid>
+      <description>&lt;p&gt;Newsletter signup web app developed in JS, HTML, CSS, and Bootstrap. The front-end sends POST request to the backend hosted on Heroku server. The backend is written in Node.js, which receives the request and submits it to Mailchimp API endpoint.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Flappy bird</title>
+      <link>/p/portfolio/work3/</link>
+      <pubDate>Sun, 22 May 2022 19:44:32 +0530</pubDate>
+      
+      <guid>/p/portfolio/work3/</guid>
+      <description>&lt;p&gt;Flappy bird clone game built using Unity&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ISS Overhead Notifier</title>
+      <link>/p/portfolio/work4/</link>
+      <pubDate>Tue, 24 Jan 2023 19:50:47 +0530</pubDate>
+      
+      <guid>/p/portfolio/work4/</guid>
+      <description>&lt;p&gt;Use Open Notify API and Sunrise Sunset API to make the International Space Station overhead notifier. User receives an email when the ISS is close to the user&amp;rsquo;s current location&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dodge Game</title>
+      <link>/p/portfolio/work5/</link>
+      <pubDate>Mon, 23 May 2022 19:53:42 +0530</pubDate>
+      
+      <guid>/p/portfolio/work5/</guid>
+      <description>&lt;p&gt;Dodge all the bullets!
+Made with Unity.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rain Alerts SMS</title>
+      <link>/p/portfolio/work6/</link>
+      <pubDate>Wed, 25 Jan 2023 19:56:17 +0530</pubDate>
+      
+      <guid>/p/portfolio/work6/</guid>
+      <description>&lt;p&gt;Use weather API and Twilio to check hourly weather condition in user&amp;rsquo;s location. If rain is expected, user receives a text message to bring an ☂️&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Secrets Web App</title>
+      <link>/p/portfolio/work7/</link>
+      <pubDate>Wed, 15 Jun 2022 19:57:40 +0530</pubDate>
+      
+      <guid>/p/portfolio/work7/</guid>
+      <description>&lt;p&gt;Users can register or log in to their accounts to view or share any text-based secret messages with other users. Their secrets disappear after 24 hours.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TinDog</title>
+      <link>/p/portfolio/work8/</link>
+      <pubDate>Tue, 17 May 2022 19:59:22 +0530</pubDate>
+      
+      <guid>/p/portfolio/work8/</guid>
+      <description>&lt;p&gt;Responsive website developed using HTML, CSS, and Bootstrap&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Turtle Graphics Project</title>
+      <link>/p/portfolio/work9/</link>
+      <pubDate>Thu, 19 Jan 2023 20:23:59 +0530</pubDate>
+      
+      <guid>/p/portfolio/work9/</guid>
+      <description>&lt;p&gt;Use Python turtle module to draw different shapes, spirograph, random walking, and dot painting&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>To-do List Web App</title>
+      <link>/p/portfolio/work10/</link>
+      <pubDate>Fri, 03 Jun 2022 20:22:08 +0530</pubDate>
+      
+      <guid>/p/portfolio/work10/</guid>
+      <description>&lt;p&gt;To-do list web app developed using JS, EJS, and CSS. Node.js app on Heroku server makes requests to database hosted on mongoDB Atlas cloud service.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blog Web App</title>
+      <link>/p/portfolio/work1/</link>
+      <pubDate>Sat, 04 Jun 2022 18:25:22 +0530</pubDate>
+      
+      <guid>/p/portfolio/work1/</guid>
+      <description>&lt;p&gt;Blog web app developed using JS, EJS, and CSS. Node.js app on Heroku server makes requests to database hosted on mongoDB Atlas cloud service.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
