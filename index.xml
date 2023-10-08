@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hannah Jang</title>
+    <title>Projects</title>
     <link>/p/</link>
-    <description>Recent content on Hannah Jang</description>
+    <description>Recent content on Projects</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 10 Mar 2023 21:05:33 +0530</lastBuildDate><atom:link href="/p/index.xml" rel="self" type="application/rss+xml" />
