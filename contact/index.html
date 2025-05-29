@@ -31,17 +31,20 @@ rel="shortcut icon" href="/p/img/favicon-16x16.png">  <link
   type="application/rss+xml"
   title="Projects"
 />  
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-B5K8CQSBBL"></script>
-<script>
-var doNotTrack = false;
-if (!doNotTrack) {
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-	gtag('config', 'G-B5K8CQSBBL', { 'anonymize_ip': false });
-}
-</script>
-
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-B5K8CQSBBL"></script>
+      <script>
+        var doNotTrack = false;
+        if ( false ) {
+          var dnt = (navigator.doNotTrack || window.doNotTrack || navigator.msDoNotTrack);
+          var doNotTrack = (dnt == "1" || dnt == "yes");
+        }
+        if (!doNotTrack) {
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-B5K8CQSBBL');
+        }
+      </script>
 </head>
 <body>
   <div id="all">
@@ -50,7 +53,7 @@ if (!doNotTrack) {
               <div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
   <div class="sidebar-content">
     <h1 class="sidebar-heading">
-      <a href="/p">Projects</a>
+      <a href="/p/">Projects</a>
     </h1>
     
     <p class="sidebar-p">I'm passionate about learning and self-improvement, so currently teaching myself programming to turn my ideas into reality.</p>
@@ -73,10 +76,6 @@ if (!doNotTrack) {
   
   
   
-  <a href="https://www.instagram.com/_jahadev/" title="" class="external instagram" title="Instagram" rel="me">
-    <i class="fa fa-instagram"></i>
-  </a>
-  
   
   
   <a href="https://www.linkedin.com/in/janghannah/" data-animate-hover="pulse" class="external" title="LinkedIn" rel="me">
@@ -97,7 +96,7 @@ if (!doNotTrack) {
 
     <div class="copyright">
       <p class="credit">
-         &copy;2023 Hannah Jang 
+        &copy; 2025 Hannah Jang
       </p>
     </div>
   </div>
@@ -107,25 +106,20 @@ if (!doNotTrack) {
 <div class="col-xs-12 col-sm-8 col-md-9 content-column white-background">
   <div class="small-navbar visible-xs">
   <button type="button" data-toggle="offcanvas" class="btn btn-ghost pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
-  <h1 class="small-navbar-heading"><a href="/p">Projects</a></h1>
+  <h1 class="small-navbar-heading"><a href="/p/">Projects</a></h1>
 </div>
 
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
         <h1>Let&#39;s Talk</h1>
-        <p>Tell me about your project.
-Let&rsquo;s create something together!</p>
+        <p>Have an idea or just want to chat? I&rsquo;d love to hear from you. Feel free to reach out!</p>
 
         <h4>You can find me also on:</h4>
         <p class="social social--big">
   
   
   
-  
-  <a href="https://www.instagram.com/_jahadev/" title="" class="instagram" title="Instagram" rel="me">
-    <i class="fa fa-instagram"></i>
-  </a>
   
   
   
@@ -173,7 +167,7 @@ Let&rsquo;s create something together!</p>
               />
             </div>
             <div class="form-group">
-              <label for="message">Your message for me *</label>
+              <label for="message">Message *</label>
               <textarea
                 rows="4"
                 name="message"
